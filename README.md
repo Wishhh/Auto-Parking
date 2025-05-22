@@ -5,27 +5,27 @@ A Laravel-based parking management system with a modern, responsive interface an
 ## Features
 
 ### 1. Dashboard / Parking Cards List
-![Dashboard](screenshots/index.png)
+![Dashboard](public/screenshots/index.png)
 - View all parking cards in a clean, organized table
 - Sort and filter parking records
 - Quick access to edit or delete records
 - Responsive design that works on all devices
 
 ### 2. Add New Parking Card
-![Add New Card](screenshots/create.png)
+![Add New Card](public/screenshots/create.png)
 - Easy-to-use form for adding new parking records
 - Real-time price calculation based on car size and duration
 - Dropdown with categorized car models
 - Input validation with clear error messages
 
 ### 3. Edit Parking Card
-![Edit Card](screenshots/edit.png)
+![Edit Card](public/screenshots/edit.png)
 - Update existing parking records
 - Maintains same intuitive interface as creation form
 - Automatic price recalculation on field changes
 
 ### 4. Reports Page
-![Reports](screenshots/reports.png)
+![Reports](public/screenshots/reports.png)
 - Comprehensive reporting interface
 - View parking statistics and analytics
 - Filter reports by date range
